@@ -1,0 +1,1 @@
+import{I as r}from"./index-135a0732.js";import{d as t,r as a,o as n,h as o,n as s,k as c}from"./index-84bac5b8.js";const i=t({__name:"index",setup(l){const e=a("http://localhost:48080/druid/index.html");return(m,d)=>(n(),o("div",null,[s(c(r),{src:e.value},null,8,["src"])]))}});export{i as default};
